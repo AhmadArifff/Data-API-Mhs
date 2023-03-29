@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "npm": "123456789",
+      "nama": "John Doe",
+      "prodi": "Teknik Informatika",
+      "ipk": 3.75
+    },
+    {
+      "npm": "987654321",
+      "nama": "Jane Smith",
+      "prodi": "Sistem Informasi",
+      "ipk": 3.90
+    },
+    {
+      "npm": "135792468",
+      "nama": "Bob Johnson",
+      "prodi": "Teknik Elektro",
+      "ipk": 3.60
+    }
+  ]
+}
